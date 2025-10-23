@@ -17,7 +17,7 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.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 }}
-          USERNAME: ${{ devcol-main }}
+          USERNAME: ${{ github.devcol-main }}
       - name: Commit & Push
         run: |
           git config user.name github-actions
