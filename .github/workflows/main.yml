@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v5
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
-          GITHUB_TOKEN: ${{ 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 }} # ${{ secrets.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 }}
+          GITHUB_TOKEN: ${{ secrets.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 }}
           USERNAME: ${{ github.devcol-main }}
       - name: Commit & Push
         run: |
