@@ -1,12 +1,15 @@
 # DevCol - Development Collaboration
 
 
-👨🏻‍💻 in9: [In Goo Lee Github](https://github.com/i9lee218).
+
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 
 <!--
+
+👨🏻‍💻 in9: [In Goo Lee Github](https://github.com/i9lee218).
+
 **devcol-main/devcol-main** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
