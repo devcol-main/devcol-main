@@ -1,16 +1,48 @@
-# DevCol - Development Collaboration
+<h1>
+  <div align="center">    
+  <img src= "https://github.com/devcol-main/devcol-main/blob/80ab691d99d9c7eac6073a807df64d949a4848aa/resorce/mariodesknight.gif" height= "300" />
+  <br/> 
+    <br/>
+  DevCol (Development Collaboration) 
+  <br/>
+    <br/>
+  </div>
+</h1>
 
 
-![DevCol_In-Goo-Lee_Static Badge](https://img.shields.io/badge/DevCol-In_Goo_Lee-black%3Fstyle?style=for-the-badge&logo=github&logoColor=black&color=black&link=https%3A%2F%2Fgithub.com%2Fdevcol-main) 
-
-<img alt="Static Badge" src="https://img.shields.io/badge/DevCol-In_Goo_Lee-black%3Fstyle?style=for-the-badge&logo=github&logoColor=black&color=black&link=https%3A%2F%2Fgithub.com%2Fdevcol-main">
+[![DevCol_In-Goo-Lee_Static Badge](https://img.shields.io/badge/DevCol-In_Goo_Lee-black?style=for-the-badge&logo=github&logoColor=black&color=black)](https://github.com/devcol-main) 
 
 
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+# <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="50px"/> &nbsp; In Goo Lee &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="50px" />
+
+
+
+
+<h2>
+	<img
+		src="https://github.com/devcol-main/devcol-main/blob/80ab691d99d9c7eac6073a807df64d949a4848aa/resorce/animatedPC.gif"
+		height="25" />
+	&nbsp; Projects &nbsp; <img
+		src="https://github.com/devcol-main/devcol-main/blob/80ab691d99d9c7eac6073a807df64d949a4848aa/resorce/animatedPC.gif"
+		height="25" />
+</h2>
+
 
 
 <!--
+===== End Line =====
+  -->
+  
+---
+
+<div align="right">  
+ &nbsp;by In Goo Lee&nbsp;
+  <img src="https://github.com/devcol-main/devcol-main/blob/ad230a85eb120e2c3f9dc1ea2268246ac2997fdf/resorce/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" width="20px"/> 
+</div>
+
+<!--
+<img src="">
 
 <p align="center">
 <img src="https://github.com/devcol-main/BC_Ch3_Assignment_3/blob/7aecdab82c5e40155518cf9d3356f0b67aedb245/Record/Record_2026_06_08_10_14_40_200.gif" width="50%" alt="B.C. Ch3 Assignment 3 gif">
