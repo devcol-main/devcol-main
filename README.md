@@ -22,11 +22,11 @@
 <summary> Table Of Contents </summary>
 
 - <a href="#project"> Project </a>
-  - <a href="#game"> Game </a>
+  - <a href="#game">  Game </a>
 
 </details>
 
-
+<br/><br/><br/><br/><br/><br/><br/><br/>
 
 <!--
 <details>
@@ -36,12 +36,7 @@
 CODE!
 ```
 </details>
--->
-
-
-$$ \Huge \text{Your Extra Large Text Here} $$
-
-
+  -->
 
 <h2>
 	<img
@@ -49,15 +44,16 @@ $$ \Huge \text{Your Extra Large Text Here} $$
 		height="25" />
 	&nbsp; <a name="project">Project</a> &nbsp; <img src="https://github.com/devcol-main/devcol-main/blob/80ab691d99d9c7eac6073a807df64d949a4848aa/resorce/animatedPC.gif"
 		height="25" />
+</h2>
 
-<h3>
+<h2>
 	<img
 		src="https://github.com/devcol-main/devcol-main/blob/2f7f31310d29e891175559697ef1c11f33247367/resorce/JoystickAnimated.webp"
 		height="25" />
 		&nbsp; <a name="Game">Game</a> 
-</h3>
-
 </h2>
+
+
 
 <!--
 ===== End Line =====
