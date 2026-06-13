@@ -47,7 +47,7 @@ CODE!
 <h2>
 	<img src="https://github.com/devcol-main/devcol-main/blob/2f7f31310d29e891175559697ef1c11f33247367/resorce/JoystickAnimated.webp"
 		height="25" />
-		&nbsp; <a name="game">Game</a> 
+		&nbsp; <a name="game">Game</a> &nbsp; 
 	<img src="https://github.com/devcol-main/devcol-main/blob/2f7f31310d29e891175559697ef1c11f33247367/resorce/JoystickAnimated.webp"
 		height="25" />
 </h2>
