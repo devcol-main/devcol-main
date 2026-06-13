@@ -24,7 +24,10 @@
 - <a href="#project"> Project </a>
   - <a href="#game">  Game </a>
 
+---
 </details>
+
+
 
 <!--
 <details>
@@ -46,7 +49,7 @@ CODE!
 		height="30" />
 </h2>
 
-<b>&nbsp;Unreal Engine (Study Projec)</b>
+<b>&nbsp;Unreal Engine (Study Projects)</b>
 
 <a href="https://github.com/devcol-main/FirstTimeUsingCppinUE5" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devcol-main&repo=FirstTimeUsingCppinUE5&theme=radical"/>
@@ -131,6 +134,8 @@ theme dif
 
 <!--
 <img src="">
+
+ref: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
