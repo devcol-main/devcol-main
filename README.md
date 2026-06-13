@@ -21,8 +21,8 @@
 <details>
 <summary> Table Of Contents </summary>
 
-* <a href="#project"> Project </a>
-  * <a href="#game"> Game </a>
+- <a href="#project"> Project </a>
+  - <a href="#game"> Game </a>
 
 </details>
 
