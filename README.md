@@ -14,19 +14,17 @@
 
 
 <!--
-# <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="50px"/> &nbsp; In Goo Lee &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="50px" />
+<img src="" alt="File Folder" width="25" height="25"/>
 -->
 
 
 <details>
-<summary><h2><b>Table Of Contents</b></h2></summary>
+<summary><h2><b>&nbsp;Table Of Contents</b></h2>&nbsp;<img src="https://github.com/devcol-main/devcol-main/blob/fa6d24e515b51a84834191d3d7d8537f9165d5ba/resorce/Card%20Index%20Dividers.webp" alt="File Folder" width="40" height="40"/></summary>
 
 - <a href="#project"> Project </a>
   - <a href="#game">  Game </a>
 
 </details>
-
-<br/><br/><br/><br/><br/><br/><br/><br/>
 
 <!--
 <details>
@@ -38,32 +36,90 @@ CODE!
 </details>
   -->
 
-<h2>
-	<img src="https://github.com/devcol-main/devcol-main/blob/b51c361dda93d5e7c7d9af891a134af81c5238a4/resorce/AngleBrackets.gif" height="25" />
-	&nbsp; <a name="project">Project</a> &nbsp; 
-	<img src="https://github.com/devcol-main/devcol-main/blob/b51c361dda93d5e7c7d9af891a134af81c5238a4/resorce/AngleBrackets.gif" height="25" />
-</h2>
+<!--  -->
 
 <h2>
 	<img src="https://github.com/devcol-main/devcol-main/blob/2f7f31310d29e891175559697ef1c11f33247367/resorce/JoystickAnimated.webp"
-		height="25" />
+		height="30" />
 		&nbsp; <a name="game">Game</a> &nbsp; 
 	<img src="https://github.com/devcol-main/devcol-main/blob/2f7f31310d29e891175559697ef1c11f33247367/resorce/JoystickAnimated.webp"
-		height="25" />
+		height="30" />
+
 </h2>
+
+<br/>
+
+
+<h2>
+	<img src="https://github.com/devcol-main/devcol-main/blob/b51c361dda93d5e7c7d9af891a134af81c5238a4/resorce/AngleBrackets.gif"  width="30" height="30" />
+	&nbsp; <a name="project">Project</a> &nbsp; 
+	<img src="https://github.com/devcol-main/devcol-main/blob/b51c361dda93d5e7c7d9af891a134af81c5238a4/resorce/AngleBrackets.gif"  width="30" height="30" />
+</h2>
+
 
 
 
 <!--
 ===== End Line =====
   -->
-  
+![DevCol's GitHub stats](https://github-readme-stats.vercel.app/api?username=devcol-main&show_icons=true&rank_icon=percentile&include_all_commits=true&ring_color=34cfeb&theme=dark)
+<!--
+![DevCol's GitHub stats](https://github-readme-stats.vercel.app/api?username=devcol-main&show_icons=true&hide_rank=true&show_reviews&show_discussions_started&show_discussions_answered&show_prs_merged_percentage&theme=dark)
+  -->
 ---
 
 <div align="right">  
  &nbsp;by In Goo Lee&nbsp;
   <img src="https://github.com/devcol-main/devcol-main/blob/ad230a85eb120e2c3f9dc1ea2268246ac2997fdf/resorce/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" width="20px"/> 
 </div>
+
+
+
+
+<!-- 
+theme dif
+<a href="https://github.com/devcol-main/FirstTimeUsingCppinUE5" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devcol-main&repo=FirstTimeUsingCppinUE5&theme=dark"/>
+</a>
+
+<a href="https://github.com/devcol-main/FirstTimeUsingCppinUE5" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devcol-main&repo=FirstTimeUsingCppinUE5&theme=radical"/>
+</a>
+
+<a href="https://github.com/devcol-main/FirstTimeUsingCppinUE5" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devcol-main&repo=FirstTimeUsingCppinUE5&theme=merko"/>
+</a>
+
+<a href="https://github.com/devcol-main/FirstTimeUsingCppinUE5" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devcol-main&repo=FirstTimeUsingCppinUE5&theme=gruvbox"/>
+</a>
+
+<a href="https://github.com/devcol-main/FirstTimeUsingCppinUE5" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devcol-main&repo=FirstTimeUsingCppinUE5&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/devcol-main/FirstTimeUsingCppinUE5" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devcol-main&repo=FirstTimeUsingCppinUE5&theme=onedark"/>
+</a>
+
+<a href="https://github.com/devcol-main/FirstTimeUsingCppinUE5" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devcol-main&repo=FirstTimeUsingCppinUE5&theme=cobalt"/>
+</a>
+
+<a href="https://github.com/devcol-main/FirstTimeUsingCppinUE5" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devcol-main&repo=FirstTimeUsingCppinUE5&theme=synthwave"/>
+</a>
+
+<a href="https://github.com/devcol-main/FirstTimeUsingCppinUE5" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devcol-main&repo=FirstTimeUsingCppinUE5&theme=highcontrast"/>
+</a>
+
+<a href="https://github.com/devcol-main/FirstTimeUsingCppinUE5" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devcol-main&repo=FirstTimeUsingCppinUE5&theme=dracula"/>
+</a>
+
+-->
+
 
 <!--
 <img src="">
@@ -82,7 +138,9 @@ CODE!
 
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
+-->
 
+<!--
 
 👨🏻‍💻 in9: [In Goo Lee Github](https://github.com/i9lee218).
 
