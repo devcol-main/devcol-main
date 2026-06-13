@@ -11,13 +11,14 @@
 
  [![DevCol_In-Goo-Lee_Static Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@devcol)
 
-<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-DevCol-style?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=white"> &nbsp; 
+
+ &nbsp; 
 
 
-[![DevCol_In-Goo-Lee_Static Badge](https://img.shields.io/badge/DevCol-In_Goo_Lee-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devcol-main) 
+[![DevCol_In-Goo-Lee_Static Badge](https://img.shields.io/badge/GitHub-DevCol-style?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=white&link=https%3A%2F%2Fgithub.com%2Fdevcol-main)](https://github.com/devcol-main) 
 
----
-<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-DevCol-style?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=white&link=https%3A%2F%2Fgithub.com%2Fdevcol-main">
+
+
 
 <!--
 <img src="" alt="File Folder" width="25" height="25"/>
