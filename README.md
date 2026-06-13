@@ -36,7 +36,7 @@ CODE!
 </details>
   -->
 
-<!--  -->
+<!-- GAME  -->
 
 <h2>
 	<img src="https://github.com/devcol-main/devcol-main/blob/2f7f31310d29e891175559697ef1c11f33247367/resorce/JoystickAnimated.webp"
@@ -44,11 +44,19 @@ CODE!
 		&nbsp; <a name="game">Game</a> &nbsp; 
 	<img src="https://github.com/devcol-main/devcol-main/blob/2f7f31310d29e891175559697ef1c11f33247367/resorce/JoystickAnimated.webp"
 		height="30" />
-
 </h2>
 
+<b>&nbsp;Unreal Engine (Study Projec)</b>
+
+<a href="https://github.com/devcol-main/FirstTimeUsingCppinUE5" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devcol-main&repo=FirstTimeUsingCppinUE5&theme=radical"/>
+</a>
+
+
+---
 <br/>
 
+<!-- PROJECT  -->
 
 <h2>
 	<img src="https://github.com/devcol-main/devcol-main/blob/b51c361dda93d5e7c7d9af891a134af81c5238a4/resorce/AngleBrackets.gif"  width="30" height="30" />
@@ -62,7 +70,7 @@ CODE!
 <!--
 ===== End Line =====
   -->
-![DevCol's GitHub stats](https://github-readme-stats.vercel.app/api?username=devcol-main&show_icons=true&rank_icon=percentile&include_all_commits=true&ring_color=34cfeb&theme=dark)
+![DevCol's GitHub stats](https://github-readme-stats.vercel.app/api?username=devcol-main&show_icons=true&rank_icon=percentile&include_all_commits=true&ring_color=34cfeb&hide=issues,contribs&theme=dark)
 <!--
 ![DevCol's GitHub stats](https://github-readme-stats.vercel.app/api?username=devcol-main&show_icons=true&hide_rank=true&show_reviews&show_discussions_started&show_discussions_answered&show_prs_merged_percentage&theme=dark)
   -->
