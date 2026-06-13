@@ -13,9 +13,33 @@
 [![DevCol_In-Goo-Lee_Static Badge](https://img.shields.io/badge/DevCol-In_Goo_Lee-black?style=for-the-badge&logo=github&logoColor=black&color=black)](https://github.com/devcol-main) 
 
 
-
+<!--
 # <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="50px"/> &nbsp; In Goo Lee &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="50px" />
+-->
 
+
+<details>
+<summary> Table Of Contents </summary>
+
+* <a href="#project"> Project </a>
+  * <a href="#game"> Game </a>
+
+</details>
+
+
+
+<!--
+<details>
+<summary>Click to toggle contents of `code`</summary>
+
+```
+CODE!
+```
+</details>
+-->
+
+
+$$ \Huge \text{Your Extra Large Text Here} $$
 
 
 
@@ -23,12 +47,17 @@
 	<img
 		src="https://github.com/devcol-main/devcol-main/blob/80ab691d99d9c7eac6073a807df64d949a4848aa/resorce/animatedPC.gif"
 		height="25" />
-	&nbsp; Projects &nbsp; <img
-		src="https://github.com/devcol-main/devcol-main/blob/80ab691d99d9c7eac6073a807df64d949a4848aa/resorce/animatedPC.gif"
+	&nbsp; <a name="project">Project</a> &nbsp; <img src="https://github.com/devcol-main/devcol-main/blob/80ab691d99d9c7eac6073a807df64d949a4848aa/resorce/animatedPC.gif"
 		height="25" />
+
+<h3>
+	<img
+		src="https://github.com/devcol-main/devcol-main/blob/2f7f31310d29e891175559697ef1c11f33247367/resorce/JoystickAnimated.webp"
+		height="25" />
+		&nbsp; <a name="Game">Game</a> 
+</h3>
+
 </h2>
-
-
 
 <!--
 ===== End Line =====
