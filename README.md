@@ -19,7 +19,7 @@
 
 
 <details>
-<summary> Table Of Contents </summary>
+<summary><h2><b>Table Of Contents</b></h2></summary>
 
 - <a href="#project"> Project </a>
   - <a href="#game">  Game </a>
@@ -39,18 +39,17 @@ CODE!
   -->
 
 <h2>
-	<img
-		src="https://github.com/devcol-main/devcol-main/blob/80ab691d99d9c7eac6073a807df64d949a4848aa/resorce/animatedPC.gif"
-		height="25" />
-	&nbsp; <a name="project">Project</a> &nbsp; <img src="https://github.com/devcol-main/devcol-main/blob/80ab691d99d9c7eac6073a807df64d949a4848aa/resorce/animatedPC.gif"
-		height="25" />
+	<img src="https://github.com/devcol-main/devcol-main/blob/b51c361dda93d5e7c7d9af891a134af81c5238a4/resorce/AngleBrackets.gif" height="25" />
+	&nbsp; <a name="project">Project</a> &nbsp; 
+	<img src="https://github.com/devcol-main/devcol-main/blob/b51c361dda93d5e7c7d9af891a134af81c5238a4/resorce/AngleBrackets.gif" height="25" />
 </h2>
 
 <h2>
-	<img
-		src="https://github.com/devcol-main/devcol-main/blob/2f7f31310d29e891175559697ef1c11f33247367/resorce/JoystickAnimated.webp"
+	<img src="https://github.com/devcol-main/devcol-main/blob/2f7f31310d29e891175559697ef1c11f33247367/resorce/JoystickAnimated.webp"
 		height="25" />
-		&nbsp; <a name="Game">Game</a> 
+		&nbsp; <a name="game">Game</a> 
+	<img src="https://github.com/devcol-main/devcol-main/blob/2f7f31310d29e891175559697ef1c11f33247367/resorce/JoystickAnimated.webp"
+		height="25" />
 </h2>
 
 
@@ -69,10 +68,20 @@ CODE!
 <!--
 <img src="">
 
-<p align="center">
-<img src="https://github.com/devcol-main/BC_Ch3_Assignment_3/blob/7aecdab82c5e40155518cf9d3356f0b67aedb245/Record/Record_2026_06_08_10_14_40_200.gif" width="50%" alt="B.C. Ch3 Assignment 3 gif">
-</p>
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
 
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
 
 
 👨🏻‍💻 in9: [In Goo Lee Github](https://github.com/i9lee218).
