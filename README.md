@@ -51,8 +51,8 @@ CODE!
 
 <b>&nbsp;Unreal Engine (Study Projects)</b>
 
-<a href="https://github.com/devcol-main/FirstTimeUsingCppinUE5" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devcol-main&repo=FirstTimeUsingCppinUE5&theme=radical"/>
+<a href="https://github.com/devcol-main/FirstUE5FPS" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devcol-main&repo=FirstUE5FPS&theme=radical"/>
 </a>
 
 
