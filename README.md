@@ -81,14 +81,19 @@ CODE!
 <!--
 ===== End Line =====
   -->
+
+ <div align="center">    
+	 
 ![DevCol's GitHub stats](https://github-readme-stats.vercel.app/api?username=devcol-main&show_icons=true&rank_icon=percentile&include_all_commits=true&ring_color=34cfeb&hide=issues,contribs&theme=dark)
+</div>
 <!--
 ![DevCol's GitHub stats](https://github-readme-stats.vercel.app/api?username=devcol-main&show_icons=true&hide_rank=true&show_reviews&show_discussions_started&show_discussions_answered&show_prs_merged_percentage&theme=dark)
   -->
-
+  
+ <div align="center">  
 
 ![snake gif](https://github.com/devcol-main/devcol-main/blob/output/github-contribution-grid-snake.svg)
-
+</div>
 
 ---
 
