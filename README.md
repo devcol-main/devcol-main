@@ -29,7 +29,7 @@
 
 
 ## Social Links
-[![GitHub-DevCol_Static-Badge](https://img.shields.io/badge/GitHub-DevCol-style?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=white&link=https%3A%2F%2Fgithub.com%2Fdevcol-main)](https://github.com/devcol-main)  &nbsp;[![Youtube-DevCol_Static-Badge](https://img.shields.io/badge/Youtube-DevCol-style?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000&color=black)](https://www.youtube.com/@devcol)
+[![GitHub-DevCol_Static-Badge](https://img.shields.io/badge/GitHub-DevCol-style?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=white&link=https%3A%2F%2Fgithub.com%2Fdevcol-main)](https://github.com/devcol-main)  &nbsp; [![Youtube-DevCol_Static-Badge](https://img.shields.io/badge/Youtube-DevCol-style?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000&color=black)](https://www.youtube.com/@devcol)
 
 
 <a name="github-stats"></a>
@@ -123,12 +123,16 @@ CODE!
 ---
 
 <div align="right">  
- &nbsp;by In Goo Lee&nbsp;
-  <img src="https://github.com/devcol-main/devcol-main/blob/ad230a85eb120e2c3f9dc1ea2268246ac2997fdf/resorce/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" width="20px"/> 
+<img src="https://github.com/devcol-main/devcol-main/blob/ad230a85eb120e2c3f9dc1ea2268246ac2997fdf/resorce/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" width="20px"/> 
+DevCol
+
 </div>
 
 
 <!-- 
+<img src="https://github.com/devcol-main/devcol-main/blob/3078fcd8d6a560fbaa848d88db2c80834753e0dd/resorce/devcol%20assets/ConstLogo.png" width="20px"/> 
+
+&nbsp;
 theme dif
 <a href="https://github.com/devcol-main/FirstTimeUsingCppinUE5" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devcol-main&repo=FirstTimeUsingCppinUE5&theme=dark"/>
