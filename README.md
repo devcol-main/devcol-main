@@ -15,7 +15,29 @@
 [![GitHub-DevCol_Static-Badge](https://img.shields.io/badge/GitHub-DevCol-style?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=white&link=https%3A%2F%2Fgithub.com%2Fdevcol-main)](https://github.com/devcol-main)  &nbsp;[![Youtube-DevCol_Static-Badge](https://img.shields.io/badge/Youtube-DevCol-style?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000&color=black)](https://www.youtube.com/@devcol)
 
 
+## 📊 GitHub Stats
+
+<table><tr><td valign="top" width="50%">
+
+
+
+<!--
+// with hide
+![DevCol's GitHub stats](https://github-readme-stats.vercel.app/api?username=devcol-main&show_icons=true&rank_icon=percentile&include_all_commits=true&ring_color=34cfeb&hide=issues,contribs&theme=dark)
+-->
+
+![DevCol's GitHub stats](https://github-readme-stats.vercel.app/api?username=devcol-main&show_icons=true&rank_icon=percentile&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&ring_color=34cfeb&theme=dark)
+
+
+</td><td valign="top" width="50%">
+
+
+
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+
+</td></tr></table>
+
 
 <!--
 <img src="" alt="File Folder" width="25" height="25"/>
