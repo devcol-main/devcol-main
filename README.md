@@ -14,8 +14,10 @@
 <details>
 <summary><h2><b>&nbsp;Table Of Contents</b></h2>&nbsp;<img src="https://github.com/devcol-main/devcol-main/blob/fa6d24e515b51a84834191d3d7d8537f9165d5ba/resorce/Card%20Index%20Dividers.webp" alt="File Folder" width="40" height="40"/></summary>
 
-- Project [Test](#social-links)
-  - - Project [Test](#game)
+- [Social Links](#social-links)
+- [GitHub Stats](#github-stats)
+- [Game](#game)
+- [Project](#project)
 
 <!--
 - <a href="#project"> Project </a>
@@ -30,7 +32,7 @@
 [![GitHub-DevCol_Static-Badge](https://img.shields.io/badge/GitHub-DevCol-style?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=white&link=https%3A%2F%2Fgithub.com%2Fdevcol-main)](https://github.com/devcol-main)  &nbsp;[![Youtube-DevCol_Static-Badge](https://img.shields.io/badge/Youtube-DevCol-style?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000&color=black)](https://www.youtube.com/@devcol)
 
 
-
+<a name="github-stats"></a>
 ## <img src="https://github.com/devcol-main/devcol-main/blob/31b77bf01c440db89036edac36b3ed3eb45e85ab/resorce/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25"/> GitHub Stats
 
 <table><tr><td valign="top" width="50%">
