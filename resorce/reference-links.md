@@ -27,3 +27,5 @@
 > envoy1084/awsome-badges: https://github.com/envoy1084/awesome-badges/blob/main/README.md
 
 > Anmol-Baranwal/Cool-GIFs-For-GitHub: https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/README.md
+
+> snk: https://github.com/Platane/snk
