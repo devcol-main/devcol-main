@@ -29,8 +29,8 @@
 
 
 ## Social Links
-[![GitHub-DevCol_Static-Badge](https://img.shields.io/badge/GitHub-DevCol-style?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=white&link=https%3A%2F%2Fgithub.com%2Fdevcol-main)](https://github.com/devcol-main)  &nbsp; [![Youtube-DevCol_Static-Badge](https://img.shields.io/badge/Youtube-DevCol-style?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000&color=black)](https://www.youtube.com/@devcol)
-
+[![GitHub-DevCol_Static-Badge](https://img.shields.io/badge/GitHub-DevCol-style?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=white&link=https%3A%2F%2Fgithub.com%2Fdevcol-main)](https://github.com/devcol-main)  &nbsp; [![Youtube-DevCol_Static-Badge](https://img.shields.io/badge/Youtube-DevCol-style?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000&color=black)](https://www.youtube.com/@devcol) &nbsp; [![Blog(Kor)-DevCol_Static-Badge](https://img.shields.io/badge/Blog(Kor)-DevCol-style?style=for-the-badge&logo=tistory&logoColor=white&labelColor=FFE300&color=black)](https://devcol.tistory.com/) &nbsp; [![Blog(En)-DevCol-_Static-Badge](https://img.shields.io/badge/Blog(En)-DevCol-style?style=for-the-badge&logo=blogger&logoColor=white&labelColor=FF5722&color=black)](https://dev-col.blogspot.com/) &nbsp; [![LinkedIn-InGooLee_Static-Badge](https://img.shields.io/badge/LinkedIn-InGooLee-style?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=0077B5&color=white)](https://www.linkedin.com/in/ingoolee/) &nbsp; [![Gmail-InGooLee_Static-Badge](https://img.shields.io/badge/Gmail-InGooLee-style?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=D14836&color=white)](mailto:iglee219@gmail.com)  &nbsp;
+<br/>
 
 <a name="github-stats"></a>
 ## <img src="https://github.com/devcol-main/devcol-main/blob/31b77bf01c440db89036edac36b3ed3eb45e85ab/resorce/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25"/> GitHub Stats
