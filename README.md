@@ -88,6 +88,13 @@ CODE!
 
 
 ![snake gif](https://github.com/devcol-main/devcol-main/blob/output/github-contribution-grid-snake.svg)
+
+
+<div align="center">
+  <img src="https://github.com/devcol-main/devcol-main/blob/output/github-snake-dark.svg">
+</div>
+
+
 ---
 
 <div align="right">  
