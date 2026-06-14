@@ -9,13 +9,14 @@
   </div>
 </h1>
 
- [![DevCol_In-Goo-Lee_Static Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@devcol)
 
 
- &nbsp; 
 
 
-[![DevCol_In-Goo-Lee_Static Badge](https://img.shields.io/badge/GitHub-DevCol-style?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=white&link=https%3A%2F%2Fgithub.com%2Fdevcol-main)](https://github.com/devcol-main) 
+
+
+
+[![GitHub-DevCol_Static-Badge](https://img.shields.io/badge/GitHub-DevCol-style?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=white&link=https%3A%2F%2Fgithub.com%2Fdevcol-main)](https://github.com/devcol-main)  &nbsp;[![Youtube-DevCol_Static-Badge](https://img.shields.io/badge/Youtube-DevCol-style?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000&color=black)](https://www.youtube.com/@devcol)
 
 
 
