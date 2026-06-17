@@ -34,6 +34,7 @@ https://shields.io/badges
 -->
 
 [![GitHub-DevCol_Static-Badge](https://img.shields.io/badge/GitHub-DevCol-style?style=for-the-badge&logo=Github&logoColor=white&labelColor=gray&color=black)](https://github.com/devcol-main)  &nbsp; [![Youtube-DevCol_Static-Badge](https://img.shields.io/badge/Youtube-DevCol-style?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000&color=black)](https://www.youtube.com/@devcol) &nbsp; [![Blog(Kor)-DevCol_Static-Badge](https://img.shields.io/badge/Blog(Kor)-DevCol-style?style=for-the-badge&logo=tistory&logoColor=white&labelColor=FFE300&color=black)](https://devcol.tistory.com/) &nbsp; [![Blog(En)-DevCol-_Static-Badge](https://img.shields.io/badge/Blog(En)-DevCol-style?style=for-the-badge&logo=blogger&logoColor=white&labelColor=FF5722&color=black)](https://dev-col.blogspot.com/) &nbsp; [![LinkedIn-InGooLee_Static-Badge](https://img.shields.io/badge/LinkedIn-InGooLee-style?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=0077B5&color=white)](https://www.linkedin.com/in/ingoolee/) &nbsp; [![Gmail-InGooLee_Static-Badge](https://img.shields.io/badge/Gmail-InGooLee-style?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=D14836&color=white)](mailto:iglee219@gmail.com)  &nbsp;
+
 <br/>
 
 <a name="github-stats"></a>
@@ -93,8 +94,9 @@ CODE!
 </a>
 
 
----
 <br/>
+
+
 
 <!-- PROJECT  -->
 
